@@ -8,4 +8,4 @@ Hiç beçeremiyorum yazı yazmayı boşverin siz qwe
 
 +ininal 500
 
-[İninal_Kanit](Ornek/ornekresim)
+![İninalKanit](https://github.com/RowyHere/Ininal-Kanit-Botu/blob/main/Ornek/ornekresim.png)
