@@ -1,0 +1,15 @@
+{
+  "name": "Fake Ininal Kanıt Oluşturucusu",
+  "version": "1.0.0",
+  "description": "Sahte Ininal Kanıt Oluşturucusu",
+  "main": "ininal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "quick.db": "^7.1.3"
+  }
+}
