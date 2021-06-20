@@ -8,4 +8,4 @@ Hiç beçeremiyorum yazı yazmayı boşverin siz qwe
 
 +ininal 500
 
-![İninal_Kanit](Ornek/ornekresim)
+![İninal_Kanit](Ornek/ornekresim.PNG)
