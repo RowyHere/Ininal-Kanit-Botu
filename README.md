@@ -9,3 +9,7 @@ Hiç beçeremiyorum yazı yazmayı boşverin siz qwe
 +ininal 500
 
 ![İninalKanit](https://github.com/RowyHere/Ininal-Kanit-Botu/blob/main/Ornek/ornekresim.png)
+
+
+Yapamayanlar için ulaşabilecekleri adreslerim;
+[INSTAGRAM](https://instagram.com/rowycik)
