@@ -1,7 +1,6 @@
 # Ininal-Kanit-Botu
 
 Yapamayanlar için ulaşabilecekleri adreslerim;
-
 [INSTAGRAM](https://instagram.com/rowycik)
 
 Hiç beçeremiyorum yazı yazmayı boşverin siz qwe
