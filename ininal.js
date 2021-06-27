@@ -7,6 +7,8 @@ const Canvas = require('canvas');
 Canvas.registerFont('OpenSans-Regular.otf', { family: 'newFont' })
 client.on("message", async message =>{
 
+  client.user.setActivity("Rowy İninal Kanıt Bot");
+
   function rowyCharacter() {
     var text = "";
     var possible = "0123456789";
@@ -70,6 +72,7 @@ client.on("message", async message =>{
 
 client.on("ready",() =>{
 	console.log("Bot Aktif.")
+	client.user.setActivity("Rowy İninal Kanıt Bot");
 })
 
 
